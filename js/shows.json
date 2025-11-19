@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image_url": "../imagenes/shows/habif.jpg",
+        "image_url": "/imagenes/shows/habif.jpg",
         "name": "Daniel Habif",
         "date": "23 de Noviembre | 21:00 hs",
         "ticket_url": "https://www.plateanet.com/obra/32904?obra=DANIEL-HABIF---ASCENDER-WORLD-TOUR&paso=inicio"
@@ -34,4 +34,5 @@
         "date": "10 de Mayo | 21:00 hs",
         "ticket_url": "https://www.plateanet.com/obra/32235?obra=PALITO-ORTEGA-EN-JUNIN&paso=inicio"
     }
+
 ]
