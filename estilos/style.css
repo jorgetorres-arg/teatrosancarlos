@@ -108,7 +108,7 @@ a {
     /* Importante para que el pseudo-elemento no se desborde */
 
     /* Imagen de Fondo (Reemplaza la URL con tu imagen) */
-    background-image: url('../imagenes/sala.png');
+    background-image: url('../imagenes/frenteTeatro.png');
     background-size: cover;
     background-position: center top;
     /* Ajustar posición para que la cantante quede visible */
@@ -349,4 +349,5 @@ a {
     .events-section {
         padding: 30px 20px;
     }
+
 }
