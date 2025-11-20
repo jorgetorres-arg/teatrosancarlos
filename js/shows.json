@@ -33,8 +33,15 @@
         "name": "Palito Ortega",
         "date": "10 de Mayo | 21:00 hs",
         "ticket_url": "https://www.plateanet.com/obra/32235?obra=PALITO-ORTEGA-EN-JUNIN&paso=inicio"
+    },
+    {
+        "id": 6,
+        "image_url": "imagenes/shows/pimpinela.jpg",
+        "name": "Pimpinela",
+        "date": "17 de Enero | 21:00 hs",
+        "ticket_url": "https://www.plateanet.com/obra/33436?obra=PIMPINELA-EN-JUNIN&paso=inicio"
     }
-
 ]
+
 
 
